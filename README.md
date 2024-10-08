@@ -2,6 +2,8 @@
 ## my alghorithm homework
 ### question: write an algorithm that counts how many even numbers are in a list
 
+Fozan ALfozan(2905282)
+
 note even numbers = {0,2,4,6,8, ...}
 
 you can test ur alghorithm on this list
